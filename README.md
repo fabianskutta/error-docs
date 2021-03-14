@@ -1,0 +1,15 @@
+# error-pages
+<li><a href="https://error-pages.fabian-skutta.de/bad_gateway.html">bad_gateway.html</a></li>
+<li><a href="https://error-pages.fabian-skutta.de/bad_request.html">bad_request.html</a></li>
+<li><a href="https://error-pages.fabian-skutta.de/forbidden.html">forbidden.html</a></li>
+<li><a href="https://error-pages.fabian-skutta.de/internal_server_error.html">internal_server_error.html</a></li>
+<li><a href="https://error-pages.fabian-skutta.de/maintenance.html">maintenance.html</a></li>
+<li><a href="https://error-pages.fabian-skutta.de/method_not_allowed.html">method_not_allowed.html</a></li>
+<li><a href="https://error-pages.fabian-skutta.de/not_acceptable.html">not_acceptable.html</a></li>
+<li><a href="https://error-pages.fabian-skutta.de/not_found.html">not_found.html</a></li>
+<li><a href="https://error-pages.fabian-skutta.de/not_implemented.html">not_implemented.html</a></li>
+<li><a href="https://error-pages.fabian-skutta.de/precondition_failed.html">precondition_failed.html</a></li>
+<li><a href="https://error-pages.fabian-skutta.de/proxy_authentication_required.html">proxy_authentication_required.html</a></li>
+<li><a href="https://error-pages.fabian-skutta.de/request-uri_too_long.html">request-uri_too_long.html</a></li>
+<li><a href="https://error-pages.fabian-skutta.de/unauthorized.html">unauthorized.html</a></li>
+<li><a href="https://error-pages.fabian-skutta.de/unsupported_media_type.html">unsupported_media_type.html</a></li>
