@@ -44,17 +44,6 @@ h3 {
     transform: translate(-50%, -50%);
 }
 
-/* If use Light mode */
-@media (prefers-color-scheme: light) {
-    body {
-        background-color: white;
-    }
-
-    h3 {
-        color: #000000;
-    }
-}
-
 /*--------------------------------------------------*/
 /*3. Mobile Only*/
 /*--------------------------------------------------*/
