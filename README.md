@@ -1,6 +1,6 @@
 # error-pages
 
-![page_pic](https://fabian.lol/error-page.png)
+![page_pic](https://cdn.fabian.lol/error-pages.fabian.lol/not_found.png)
 
 ## Pages
 <li><a href="https://error-pages.fabian.lol/bad_gateway.html">bad_gateway.html</a></li>
