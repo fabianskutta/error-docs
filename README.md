@@ -1,4 +1,4 @@
-# error pages
+# error-pages
 
 ![page_pic](https://cdn.fabian.lol/error-pages.fabian.lol/not_found.png)
 
